@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**GabrieIBarbosa/GabrieIBarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=GabrieIBarbosa&theme=tokyonight&custom_title=Gabriel%20Barbosa&show_icons=true&hide_border=false&border_radius=10" height="175"
+  />
 
-Here are some ideas to get you started:
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieIBarbosa&theme=tokyonight&layout=compact&hide_border=false&border_radius=10" height="175"
+  />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
